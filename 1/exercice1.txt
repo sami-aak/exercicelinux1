@@ -1,0 +1,23 @@
+mkdir -p Work/Linux/exercices
+cd Work/Linux/exercices
+touch exercice1.txt
+nano exercice1.txt
+
+.:
+total 16
+drwxr-xr-x 4 samovic samovic 4096 Jan  5 15:14 .
+drwxr-xr-x 3 samovic samovic 4096 Jan  5 14:44 ..
+drwxr-xr-x 2 samovic samovic 4096 Jan  5 15:13 1
+drwxr-xr-x 2 samovic samovic 4096 Jan  5 15:14 2
+
+./1:
+total 12
+drwxr-xr-x 2 samovic samovic 4096 Jan  5 15:13 .
+drwxr-xr-x 4 samovic samovic 4096 Jan  5 15:14 ..
+-rw-r--r-- 1 samovic samovic   93 Jan  5 15:08 exercice1.txt
+
+./2:
+total 8
+drwxr-xr-x 2 samovic samovic 4096 Jan  5 15:14 .
+drwxr-xr-x 4 samovic samovic 4096 Jan  5 15:14 ..
+-rw-r--r-- 1 samovic samovic    0 Jan  5 15:09 exercice2.txt
