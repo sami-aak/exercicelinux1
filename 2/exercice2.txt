@@ -1,0 +1,24 @@
+1. 652 ko
+
+2. /etc
+
+3. /bin
+
+4. 
+-ps
+-PID TTY          TIME CMD
+    1 ?        00:00:00 init
+    4 ?        00:00:00 init
+   68 ?        00:00:00 init
+   69 ?        00:00:00 init
+   70 pts/0    00:00:00 bash
+  138 pts/0    00:00:00 ps
+
+5.
+-less ouvre une interface pour lire le fichier fichier et permet d'y naviguer, d'y faire des recherches, etc.
+-more affiche le contenu du fichier progressivement (écran par écran), jusqu'à la fin du fichier
+
+6. kill -SIGTERM java
+
+7. kill -SIGKILL 5240
+
