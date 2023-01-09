@@ -1,0 +1,11 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+cat 1/exercice1.txt 2/exercice2.txt 3/exercice3.txt && less 1/exercice1.txt && less 2/exercice2.txt && less 3/exercice3.txt
+total 16K
+drwxr-xr-x 8 samovic samovic 4.0K Jan  9 13:18 .git
+drwxr-xr-x 2 samovic samovic 4.0K Jan  5 15:26 1
+drwxr-xr-x 2 samovic samovic 4.0K Jan  9 12:18 2
+drwxr-xr-x 3 samovic samovic 4.0K Jan  9 13:58 3
